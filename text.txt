@@ -5,8 +5,13 @@ Hello!
 Today is a nice day!
 
 The 30 of August
-Today is the warm and unny day.
+Today is the warm and sunny day.
  
  Lists
  * Item1
  * Item2
+
+
+
+Ввод математических формул в данном редакторе не возможен.
+Файл с расширением .doc открыть нет возможности.
